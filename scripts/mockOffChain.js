@@ -1,3 +1,5 @@
+const { ethers, network } = require("hardhat");
+
 async function mockAutomation() {
     const roulette = await ethers.getContract("Roulette");
     const checkData = ethers.utils.keccak256(ethers.utils.toUtf8Bytes(""));
