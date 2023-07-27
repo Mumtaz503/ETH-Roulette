@@ -1,4 +1,7 @@
 {
+  "name": "sample-hardhat-roulette-backend",
+  "author": "Mumtaz503",
+  "version": "1.0.0",
   "devDependencies": {
     "@chainlink/contracts": "0.5.1",
     "@nomicfoundation/hardhat-ethers": "3.0.2",
