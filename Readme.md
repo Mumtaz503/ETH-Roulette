@@ -4,7 +4,7 @@ Is a fully decentralized, provably and verifiably random game of Casino roulette
 
 ## Note
 
-The project is purely for educational purposes and I DO NOT support gambling in any way, shape or form.
+The project is purely for educational purposes and I **DO NOT** support gambling in any way, shape or form.
 
 ## Technical details
 
