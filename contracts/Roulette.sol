@@ -26,7 +26,7 @@ error Roulette__NotAllowedToPlaceBets();
 error Roulette__PayOutError();
 
 /**
- * @title Casino Roulette Contract
+ * @title ETH Roulette Contract
  * @author Mumtaz503
  * @notice This contract is for creating an untamperable, decentralized and a verifiably fair game of Roulette
  * @dev This contract implements Chainlink's VRF V2 and Automation Compatible Interface
